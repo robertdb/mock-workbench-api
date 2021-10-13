@@ -1,7 +1,7 @@
 {
   "customers": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+    {"id": 1, "name": "customer 1", "programs": [{ "id": 1, "name": "program 1"}]},
+    {"id": 2, "name": "customer 2", "programs": [{ "id": 2, "name": "program 2"}]},
+    {"id": 3, "name": "customer 3", "programs": [{ "id": 3, "name": "program 3"}]}
+  ]
 }
