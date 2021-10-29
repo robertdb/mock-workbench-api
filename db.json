@@ -59,68 +59,66 @@
       }
     ]
   },
-  "customer": {
-    "1": {
-      "customer": {
-        "id": 1,
-        "name": "customer1",
-        "description": "customer1_description",
-        "programs": [
-          {
-            "id": 1,
-            "name": "program1",
-            "desc": "program1_description"
-          },
-          {
-            "id": 2,
-            "name": "program2",
-            "desc": "program2_description"
-          }
-        ]
-      }
-    },
-    "2": {
-      "customer": {
-        "id": 2,
-        "name": "customer2",
-        "desc": "customer2_description",
-        "programs": [
-          {
-            "id": 3,
-            "name": "program3",
-            "desc": "program3_description"
-          },
-          {
-            "id": 4,
-            "name": "program4",
-            "desc": "program4_description"
-          },
-          {
-            "id": 5,
-            "name": "program5",
-            "desc": "program5_description"
-          }
-        ]
-      }
-    },
-    "3": {
-      "customer": {
-        "id": 3,
-        "name": "customer3",
-        "desc": "customer3_description",
-        "programs": [
-          {
-            "id": 6,
-            "name": "program6",
-            "desc": "program6_description"
-          },
-          {
-            "id": 7,
-            "name": "program7",
-            "desc": "program7_description"
-          }
-        ]
-      }
+  "customer/1": {
+    "customer": {
+      "id": 1,
+      "name": "customer1",
+      "description": "customer1_description",
+      "programs": [
+        {
+          "id": 1,
+          "name": "program1",
+          "desc": "program1_description"
+        },
+        {
+          "id": 2,
+          "name": "program2",
+          "desc": "program2_description"
+        }
+      ]
+    }
+  },
+  "customer/2": {
+    "customer": {
+      "id": 2,
+      "name": "customer2",
+      "desc": "customer2_description",
+      "programs": [
+        {
+          "id": 3,
+          "name": "program3",
+          "desc": "program3_description"
+        },
+        {
+          "id": 4,
+          "name": "program4",
+          "desc": "program4_description"
+        },
+        {
+          "id": 5,
+          "name": "program5",
+          "desc": "program5_description"
+        }
+      ]
+    }
+  },
+  "customer/3": {
+    "customer": {
+      "id": 3,
+      "name": "customer3",
+      "desc": "customer3_description",
+      "programs": [
+        {
+          "id": 6,
+          "name": "program6",
+          "desc": "program6_description"
+        },
+        {
+          "id": 7,
+          "name": "program7",
+          "desc": "program7_description"
+        }
+      ]
     }
   }
 }
