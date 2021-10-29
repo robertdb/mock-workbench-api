@@ -57,6 +57,25 @@
           }
         ]
       }
-    ]  
+    ]
+  },
+  "customer": {
+    "customer": {
+      "id": 1,
+      "name": "customer1",
+      "description": "customer1_description",
+      "programs": [
+        {
+          "id": 1,
+          "name": "program1",
+          "desc": "program1_description"
+        },
+        {
+          "id": 2,
+          "name": "program2",
+          "desc": "program2_description"
+        }
+      ]
+    }
   }
 }
