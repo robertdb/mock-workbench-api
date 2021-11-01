@@ -129,66 +129,87 @@
   "program": [
     {
      "id": 1,
-     "name": "test_map",
-      "description": "test_map_desc",
-      "deployedOn":"date 25th oct",
-      "owner": "user_id",
-      "version": 6,
-      "blob" : "json updated map"
+      "program": {
+        "id": 1,
+        "name": "test_map",
+        "description": "test_map_desc",
+        "deployedOn":"date 25th oct",
+        "owner": "user_id",
+        "version": 6,
+        "blob" : "json updated map"
+      }
     },
-    {
+   {
      "id": 2,
-     "name": "test_map",
-      "description": "test_map_desc",
-      "deployedOn":"date 25th oct",
-      "owner": "user_id",
-      "version": 6,
-      "blob" : "json updated map"
+      "program": {
+        "id": 2,
+        "name": "test_map",
+        "description": "test_map_desc",
+        "deployedOn":"date 25th oct",
+        "owner": "user_id",
+        "version": 6,
+        "blob" : "json updated map"
+      }
     },
     {
      "id": 3,
-     "name": "test_map",
-      "description": "test_map_desc",
-      "deployedOn":"date 25th oct",
-      "owner": "user_id",
-      "version": 6,
-      "blob" : "json updated map"
+      "program": {
+        "id": 3,
+        "name": "test_map",
+        "description": "test_map_desc",
+        "deployedOn":"date 25th oct",
+        "owner": "user_id",
+        "version": 6,
+        "blob" : "json updated map"
+      }
     },
-    {
+   {
      "id": 4,
-     "name": "test_map",
-      "description": "test_map_desc",
-      "deployedOn":"date 25th oct",
-      "owner": "user_id",
-      "version": 6,
-      "blob" : "json updated map"
+      "program": {
+        "id": 4,
+        "name": "test_map",
+        "description": "test_map_desc",
+        "deployedOn":"date 25th oct",
+        "owner": "user_id",
+        "version": 6,
+        "blob" : "json updated map"
+      }
     },
-    {
+   {
      "id": 5,
-     "name": "test_map",
-      "description": "test_map_desc",
-      "deployedOn":"date 25th oct",
-      "owner": "user_id",
-      "version": 6,
-      "blob" : "json updated map"
+      "program": {
+        "id": 5,
+        "name": "test_map",
+        "description": "test_map_desc",
+        "deployedOn":"date 25th oct",
+        "owner": "user_id",
+        "version": 6,
+        "blob" : "json updated map"
+      }
     },
-    {
+   {
      "id": 6,
-     "name": "test_map",
-      "description": "test_map_desc",
-      "deployedOn":"date 25th oct",
-      "owner": "user_id",
-      "version": 6,
-      "blob" : "json updated map"
+      "program": {
+        "id": 6,
+        "name": "test_map",
+        "description": "test_map_desc",
+        "deployedOn":"date 25th oct",
+        "owner": "user_id",
+        "version": 6,
+        "blob" : "json updated map"
+      }
     },
-    {
+ {
      "id": 7,
-     "name": "test_map",
-      "description": "test_map_desc",
-      "deployedOn":"date 25th oct",
-      "owner": "user_id",
-      "version": 6,
-      "blob" : "json updated map"
+      "program": {
+        "id": 7,
+        "name": "test_map",
+        "description": "test_map_desc",
+        "deployedOn":"date 25th oct",
+        "owner": "user_id",
+        "version": 6,
+        "blob" : "json updated map"
+      }
     }
   ]
 }
