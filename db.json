@@ -8,12 +8,12 @@
         "programs": [
           {
             "id": 1,
-            "name": "program1",
+            "name": "Test map",
             "description": "program1_description"
           },
           {
             "id": 2,
-            "name": "program2",
+            "name": "Test map",
             "description": "program2_description"
           }
         ]
@@ -25,17 +25,17 @@
         "programs": [
           {
             "id": 3,
-            "name": "program3",
+            "name": "Test map",
             "description": "program3_description"
           },
           {
             "id": 4,
-            "name": "program4",
+            "name": "Test map",
             "description": "program4_description"
           },
           {
             "id": 5,
-            "name": "program5",
+            "name": "Test map",
             "description": "program5_description"
           }
         ]
@@ -47,12 +47,12 @@
         "programs": [
           {
             "id": 6,
-            "name": "program6",
+            "name": "Test map",
             "description": "program6_description"
           },
           {
             "id": 7,
-            "name": "program7",
+            "name": "Test map",
             "description": "program7_description"
           }
         ]
@@ -69,12 +69,12 @@
         "programs": [
           {
             "id": 1,
-            "name": "program1",
+            "name": "Test map",
             "description": "program1_description"
           },
           {
             "id": 2,
-            "name": "program2",
+            "name": "Test map",
             "description": "program2_description"
           }
         ]
@@ -89,17 +89,17 @@
         "programs": [
           {
             "id": 3,
-            "name": "program3",
+            "name": "Test map",
             "description": "program3_description"
           },
           {
             "id": 4,
-            "name": "program4",
+            "name": "Test map",
             "description": "program4_description"
           },
           {
             "id": 5,
-            "name": "program5",
+            "name": "Test map",
             "description": "program5_description"
           }
         ]
@@ -114,12 +114,12 @@
         "programs": [
           {
             "id": 6,
-            "name": "program6",
+            "name": "Test map",
             "description": "program6_description"
           },
           {
             "id": 7,
-            "name": "program7",
+            "name": "Test map",
             "description": "program7_description"
           }
         ]
@@ -131,9 +131,9 @@
      "id": 1,
       "program": {
         "id": 1,
-        "name": "test_map",
+        "name": "Test map",
         "description": "test_map_desc",
-        "deployedOn":"date 25th oct",
+        "deployedOn":"Date 25th oct",
         "owner": "user_id",
         "version": 6,
         "blob" : "json updated map"
@@ -143,9 +143,9 @@
      "id": 2,
       "program": {
         "id": 2,
-        "name": "test_map",
+        "name": "Test map",
         "description": "test_map_desc",
-        "deployedOn":"date 25th oct",
+        "deployedOn":"Date 25th oct",
         "owner": "user_id",
         "version": 6,
         "blob" : "json updated map"
@@ -155,9 +155,9 @@
      "id": 3,
       "program": {
         "id": 3,
-        "name": "test_map",
+        "name": "Test map",
         "description": "test_map_desc",
-        "deployedOn":"date 25th oct",
+        "deployedOn":"Date 25th oct",
         "owner": "user_id",
         "version": 6,
         "blob" : "json updated map"
@@ -167,9 +167,9 @@
      "id": 4,
       "program": {
         "id": 4,
-        "name": "test_map",
+        "name": "Test map",
         "description": "test_map_desc",
-        "deployedOn":"date 25th oct",
+        "deployedOn":"Date 25th oct",
         "owner": "user_id",
         "version": 6,
         "blob" : "json updated map"
@@ -179,9 +179,9 @@
      "id": 5,
       "program": {
         "id": 5,
-        "name": "test_map",
+        "name": "Test map",
         "description": "test_map_desc",
-        "deployedOn":"date 25th oct",
+        "deployedOn":"Date 25th oct",
         "owner": "user_id",
         "version": 6,
         "blob" : "json updated map"
@@ -191,9 +191,9 @@
      "id": 6,
       "program": {
         "id": 6,
-        "name": "test_map",
+        "name": "Test map",
         "description": "test_map_desc",
-        "deployedOn":"date 25th oct",
+        "deployedOn":"Date 25th oct",
         "owner": "user_id",
         "version": 6,
         "blob" : "json updated map"
@@ -203,9 +203,9 @@
      "id": 7,
       "program": {
         "id": 7,
-        "name": "test_map",
+        "name": "Test map",
         "description": "test_map_desc",
-        "deployedOn":"date 25th oct",
+        "deployedOn":"Date 25th oct",
         "owner": "user_id",
         "version": 6,
         "blob" : "json updated map"
