@@ -125,5 +125,17 @@
         ]
       }
     }
+  ],
+  "program": [
+    {
+     "id": 1,
+     "name": "test_map",
+      "description": "test_map_desc",
+      "deployed_on":"date 25th oct",
+      "owner": "user_id",
+      "version": 6,
+      "schema_id": 1,
+      "blob" : "json updated map"
+    }
   ]
 }
