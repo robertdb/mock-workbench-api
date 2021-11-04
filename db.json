@@ -3,22 +3,35 @@
     {
       "id": 1,
       "domainId": "b362",
-      "permissions": {
-        "admin": {
-          "builder": {
-            "map": ["read", "write", "update"]
+      "permissions": [
+        {
+          "id": 1,
+          "admin": {
+            "builder": {
+              "map": [
+                "read",
+                "write",
+                "update"
+              ]
+            },
+            "annotation": {
+              "reports": [
+                "read"
+              ],
+              "comments_in_events": [
+                "read"
+              ]
+            }
           },
-          "annotation": {
-            "reports": ["read"],
-            "comments_in_events": ["read"]
-          }
-        },
-        "analyst": {
-          "annotation": {
-            "comments_in_events": ["write"]
+          "analyst": {
+            "annotation": {
+              "comments_in_events": [
+                "write"
+              ]
+            }
           }
         }
-      }
+      ]
     }
   ],
   "customers": {
